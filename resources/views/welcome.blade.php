@@ -177,7 +177,7 @@
             <div class="resume-item">
               <h4>Dev. Manager</h4>
               <h5>2021 - Present</h5>
-              <p><em>Cuiabá, MT - BR</em></p>
+              <p><em>Estuda Tecnologias Educacionais SA, MT - BR</em></p>
               <ul>
                 <p>The management of the entire development team, future strategies,
                   implementation of tools and server management were monitored and structured in
@@ -194,9 +194,9 @@
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4>SENIOR BACKEND DEVELOPER</h4>
+              <h5>2020 - 2021</h5>
+              <p><em>DESENVOLVIMENTO DE SISTEMAS LTDA, MG - BR</em></p>
               <ul>
                 <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
                 <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
