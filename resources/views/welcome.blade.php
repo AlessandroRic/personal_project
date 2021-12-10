@@ -178,15 +178,15 @@
               <h4>Dev. Manager</h4>
               <h5>2021 - Present</h5>
               <p><em>Estuda Tecnologias Educacionais SA, MT - BR</em></p>
+              <p>The management of the entire development team, future strategies,
+                implementation of tools and server management were monitored and structured in
+                pairs (ITM / CTO). For the management of teams, the Agile / Scrum system was
+                established, with the help of Asana and ClickUp tools. In several moments where it
+                is necessary to implement a new service at the level of a new server, and/or there
+                were technical difficulties to implement/correct some service, I sent corrections to
+                help the team. As Cloud systems, Oracle, AWS and GCP services are used,
+                aiming at DR (Desaster Recover) models.</p>
               <ul>
-                <p>The management of the entire development team, future strategies,
-                  implementation of tools and server management were monitored and structured in
-                  pairs (ITM / CTO). For the management of teams, the Agile / Scrum system was
-                  established, with the help of Asana and ClickUp tools. In several moments where it
-                  is necessary to implement a new service at the level of a new server, and/or there
-                  were technical difficulties to implement/correct some service, I sent corrections to
-                  help the team. As Cloud systems, Oracle, AWS and GCP services are used,
-                  aiming at DR (Desaster Recover) models.</p>
                 <li>PHP - Fixes and improvements in code development</li>
                 <li>Scrum - Team management and organization with agile processes</li>
                 <li>Team supervision and implementation of new features</li>
@@ -196,12 +196,58 @@
             <div class="resume-item">
               <h4>SENIOR BACKEND DEVELOPER</h4>
               <h5>2020 - 2021</h5>
-              <p><em>DESENVOLVIMENTO DE SISTEMAS LTDA, MG - BR</em></p>
+              <p><em>TAGPLUS DESENVOLVIMENTO DE SISTEMAS LTDA, MG - BR</em></p>
+              <p>The management of the entire development team, future strategies,
+                implementation of tools and server management were monitored and structured in
+                pairs (ITM / CTO). For the management of teams, the Agile / Scrum system was
+                established, with the help of Asana and ClickUp tools. In several moments where it
+                is necessary to implement a new service at the level of a new server, and/or there
+                were technical difficulties to implement/correct some service, I sent corrections to
+                help the team. As Cloud systems, Oracle, AWS and GCP services are used,
+                aiming at DR (Desaster Recover) models.</p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>PHP - Fixes and improvements in code development</li>
+                <li>Scrum - Team management and organization with agile processes</li>
+                <li>Team supervision and implementation of new features</li>
+                <li>AWS, GCP - Cloud Architect</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>SENIOR BACKEND DEVELOPER</h4>
+              <h5>2020 - 2021</h5>
+              <p><em>DOMMUS SOLUCOES IMOBILIARIAS LTDA, MG - BR</em></p>
+              <p>The management of the entire development team, future strategies,
+                implementation of tools and server management were monitored and structured in
+                pairs (ITM / CTO). For the management of teams, the Agile / Scrum system was
+                established, with the help of Asana and ClickUp tools. In several moments where it
+                is necessary to implement a new service at the level of a new server, and/or there
+                were technical difficulties to implement/correct some service, I sent corrections to
+                help the team. As Cloud systems, Oracle, AWS and GCP services are used,
+                aiming at DR (Desaster Recover) models.</p>
+              <ul>
+                <li>PHP - Fixes and improvements in code development</li>
+                <li>Scrum - Team management and organization with agile processes</li>
+                <li>Team supervision and implementation of new features</li>
+                <li>AWS, GCP - Cloud Architect</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>SOFTWARE ENGINEER</h4>
+              <h5>2013 - 2019</h5>
+              <p><em>WEBIRD, MG - BR</em></p>
+              <p>The management of the entire development team, future strategies,
+                implementation of tools and server management were monitored and structured in
+                pairs (ITM / CTO). For the management of teams, the Agile / Scrum system was
+                established, with the help of Asana and ClickUp tools. In several moments where it
+                is necessary to implement a new service at the level of a new server, and/or there
+                were technical difficulties to implement/correct some service, I sent corrections to
+                help the team. As Cloud systems, Oracle, AWS and GCP services are used,
+                aiming at DR (Desaster Recover) models.</p>
+              <ul>
+                <li>PHP - Fixes and improvements in code development</li>
+                <li>Scrum - Team management and organization with agile processes</li>
+                <li>Team supervision and implementation of new features</li>
+                <li>AWS, GCP - Cloud Architect</li>
               </ul>
             </div>
           </div>
